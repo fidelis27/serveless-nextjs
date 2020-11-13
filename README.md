@@ -1,7 +1,7 @@
 
 <br>
 <div align="center">
-  <img width="300" alt="NextJS-" src="./.github/assets/newsletter.png" />
+  <img width="600" alt="NextJS-" src="./.github/assets/newsletter.png" />
 
   <h4 align="center">
      Next.js, app to subscribe at newsletter 
